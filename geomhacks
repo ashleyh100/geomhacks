@@ -15,10 +15,13 @@
 <p> The importance of wearing a mask: </p>
 
 <h2> Fun animations </h2>
-<p> info goes here </p>
+<form action="/action_page.php">
+  <label for="entry">Entry:</label>
+  <input type="file" id="entry" name="entry"><br><br>
+  <input type="submit" value="Submit">
+</form>
 
 <h2> Talk to doctors! </h2>
-
 <form action="/action_page.php">
   <label for="questions ">Questions:</label>
   <input type="text" id="questions" name="questions"><br><br>
