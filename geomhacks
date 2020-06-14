@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Geomhacks website - ashley </title>
+</head>
+<body>
+
+<h1> Geomhacks website </h1>
+
+<h2> News on Covid-19 </h2>
+<p> This week: </p>
+<p> Previous week: </p>
+
+<h2> Kids information </h2>
+<p> info goes here </p>
+
+<h2> Fun animations </h2>
+<p> info goes here </p>
+
+<h2> Talk to doctors! </h2>
+
+<form action="/action_page.php">
+  <label for="questions ">Questions:</label>
+  <input type="text" id="questions" name="questions"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+
+</html>
